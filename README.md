@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Stoyan Stoynov (tenataks). I am studying Programming Fundamentals with Python in SoftUni. 👋
 
 <!--
 **tenataks/tenataks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
